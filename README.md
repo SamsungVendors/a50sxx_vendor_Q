@@ -1,0 +1,6 @@
+```
+AP : A507FNXXU5CTK4
+CSC : A507FNODM5CTK2 (INS)
+Android : Q(Android 10)
+Build Date : 20201127150004
+```
